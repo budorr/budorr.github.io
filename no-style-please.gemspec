@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 Gem::Specification.new do |spec|
   spec.name          = "no-style-please"
   spec.version       = "0.4.7"
