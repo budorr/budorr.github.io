@@ -1,4 +1,4 @@
-title: test
+title: ctfs and stuff?
 url: https://budorr.github.io
 baseurl: ""
 
@@ -6,7 +6,7 @@ remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "light"
-  back_home_text: ".."
+  back_home_text: "press here to go back"
   date_format: "%d-%m-%Y"
   show_description: false
 
